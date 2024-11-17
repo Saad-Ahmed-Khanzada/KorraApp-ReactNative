@@ -1,15 +1,50 @@
-**korra: Your AI-Powered Financial Assistant**
+# Welcome to your Expo app 👋
 
-**korra** is a cutting-edge React Native application designed to revolutionize the way you manage your cryptocurrency transactions. Powered by advanced AI and integrated with Firebase authentication, korra offers a seamless and intuitive user experience.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-**Key Features:**
+## Get started
 
-* **Intelligent Chatbot:** Engage in natural conversations with our AI-powered chatbot to get real-time information, insights, and assistance with your cryptocurrency portfolio.
-* **Interactive UI:** Enjoy a visually appealing and user-friendly interface that makes navigating your financial journey effortless.
-* **Secure Authentication:** Protect your sensitive information with Firebase authentication, ensuring the highest level of security for your cryptocurrency transactions.
-* **Seamless Integration:** Easily connect your cryptocurrency wallets and exchanges to korra, allowing you to manage your assets from a single platform.
-* **Personalized Recommendations:** Receive tailored financial advice based on your unique investment goals and risk tolerance.
+1. Install dependencies
 
-**Experience the Future of Finance**
+   ```bash
+   npm install
+   ```
 
-With korra, you'll have a reliable and intelligent financial companion at your fingertips. Download the app today and take control of your cryptocurrency investments.
+2. Start the app
+
+   ```bash
+    npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
